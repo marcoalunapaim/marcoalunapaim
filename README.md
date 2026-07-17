@@ -11,7 +11,7 @@ _conectando ao terminal..._ ✅ conectado
 Analista @ SYDLE
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40marcoalunapaim%3A~%24+whoami;Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+Python;sudo+bora+construir+algo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40marcoalunapaim%3A~%24+whoami;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+Python;sudo+bora+construir+algo" alt="Typing SVG" />
 
 </div>
 
